@@ -30,9 +30,7 @@ yarn start
 Executa a aplicação em modo desenvolvimento no caminho http://localhost:3000.
 A página é recarregada com edições nos arquivos e os erros de lint são acusados no console.
 
-<p align="center" style="margin: 0 auto;>
-	<img src="src/assets/img/boilerplate.png" />
-</p>
+![alt text](https://github.com/snksergio/Boilerplate/blob/master/src/assets/img/boilerplate.png)
 
 <br>
 
@@ -153,6 +151,17 @@ Seu aplicativo está pronto para ser implantado!
 Veja a seção sobre [deployment](https://facebook.github.io/create-react-app/docs/deployment) para mais informações.
 
 <br>
+
+## Documentação
+Guias e informações de uso e implementações que foram utilizadas para a estruturação e padronização do Boilerplate
+
+- [Styles](https://github.com/snksergio/Boilerplate/blob/master/docs/Styles.md) - Guia responsável pela padronização de estilos do Boilerplate
+- [Router](https://github.com/snksergio/Boilerplate/blob/master/docs/Router.md) - Configurações e administração das rotas e navegabilidade do Boilerplate
+- [SonarQube](https://github.com/snksergio/Boilerplate/blob/master/docs/SonarQube.md) - Guia para implementação do SonarQube do Boilerplate
+- [Documento Padrão](https://github.com/snksergio/Boilerplate/blob/master/docs/Exemplo.md) - Exemplo de uma estrutura padrão para a criação de uma documentação
+
+<br>
+
 
 ## Configurações Inclusas
 
