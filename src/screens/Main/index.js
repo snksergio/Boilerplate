@@ -9,7 +9,7 @@ const Main = () => (
       <Switch>
         {routes.map(route => (
           <Route
-            key={route.path}
+            key={route.key}
             path={route.path}
             exact={route.exact}
             component={route.component}
